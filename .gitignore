@@ -77,4 +77,5 @@ typings/
 .fusebox/
 
 # Mediafiles
-.sound/
+.sound/*.wav
+
